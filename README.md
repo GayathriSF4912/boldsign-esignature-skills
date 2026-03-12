@@ -1,6 +1,6 @@
-# BoldSign eSignature Skills for Claude
+# BoldSign eSignature Skills
 
-A Claude skill for generating BoldSign eSignature integration guidance and code scaffolding for .NET, Node.js, Python, and PHP.
+A skill for generating BoldSign eSignature integration guidance and code scaffolding for .NET, Node.js, Python, and PHP.
 
 This repository packages the `BoldSign/` skill folder with the root `SKILL.md` entrypoint and stack- and workflow-specific reference files.
 
@@ -33,7 +33,7 @@ BoldSign/
 ## Installation
 
 1. Download or clone this repository.
-2. Copy the `BoldSign/` folder into your Claude skills directory.
+2. Copy the `BoldSign/` folder into your skills directory.
 3. Start prompting Claude with BoldSign eSignature tasks.
 
 Example install path used in our documentation:
