@@ -34,7 +34,7 @@ BoldSign/
 
 1. Download or clone this repository.
 2. Copy the `BoldSign/` folder into your skills directory.
-3. Start prompting Claude with BoldSign eSignature tasks.
+3. Start prompting your AI agent with BoldSign eSignature tasks.
 
 Example install path used in our documentation:
 
@@ -42,7 +42,7 @@ Example install path used in our documentation:
 cp -R BoldSign /mnt/skills/user/boldsign-esignature/
 ```
 
-Adjust the target path if your Claude environment uses a different skills directory.
+Adjust the target path if your AI agent environment uses a different skills directory.
 
 ## Example prompts
 
